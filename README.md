@@ -8,6 +8,8 @@ The project takes a Flask + Redis application and deploys its components on Kube
 
 ## Architecture
 
+![Kubernetes Flask Redis Architecture](architecture-diagram.png)
+
                          Internet / Browser
                                 |
                                 |
